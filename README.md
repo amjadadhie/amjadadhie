@@ -4,6 +4,9 @@
 <h3 align="center">
   A passionate Backend Developer from Indonesia
 </h3>
+<p align="center" dir="auto">
+    <a href="https://amjadprasetyo.com" rel="nofollow">My Personal Website</a>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amjadadhie&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
