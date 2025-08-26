@@ -12,7 +12,7 @@
 ---
 
 ### 💬 About Me:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Superbank as Cyber Security Incident Response
 - 🌱 I’m currently learning **Python, Bash, and DevOps**.
 - 📫 How to reach me: **prasetyoamjad@gmail.com**
 - ⚡ Fun fact: I like playing music just for fun, especially piano 📚
